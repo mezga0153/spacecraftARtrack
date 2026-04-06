@@ -7,3 +7,6 @@
 # Ktor
 -keep class io.ktor.** { *; }
 -keep class kotlinx.serialization.** { *; }
+# Suppress R8 warnings about JVM-only classes used in Ktor's debug utilities
+-dontwarn java.lang.management.**
+-dontwarn io.ktor.util.debug.**
