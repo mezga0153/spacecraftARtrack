@@ -1,0 +1,20 @@
+*.iml
+.gradle
+.kotlin
+local.properties
+.idea/
+.DS_Store
+build/
+/captures
+.externalNativeBuild
+.cxx
+*.jks
+*.keystore
+
+# Gradle wrapper jar is checked in, but caches are not
+!gradle/wrapper/gradle-wrapper.jar
+
+# OS
+Thumbs.db
+*.swp
+*~

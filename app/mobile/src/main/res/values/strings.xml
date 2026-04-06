@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SpacecraftARTrack</string>
+    <string name="skyview_label">Sky View</string>
+    <string name="info_label">Mission Info</string>
+    <string name="permission_camera_title">Camera permission needed</string>
+    <string name="permission_camera_body">Point your phone at the sky to locate the Moon and Artemis spacecraft.</string>
+    <string name="permission_location_title">Location permission needed</string>
+    <string name="permission_location_body">Your location is used to accurately position celestial objects in the sky.</string>
+    <string name="grant_permission">Grant permission</string>
+    <string name="moon_label">Moon</string>
+    <string name="artemis_label">Artemis</string>
+    <string name="no_active_mission">No active Artemis mission in orbit</string>
+    <string name="loading_position">Fetching position…</string>
+    <string name="azimuth_label">Azimuth: %1$.1f°</string>
+    <string name="altitude_label">Altitude: %1$.1f°</string>
+    <string name="distance_label">Distance: %1$.0f km</string>
+    <string name="mission_status_label">Mission status</string>
+    <string name="compass_n">N</string>
+    <string name="compass_s">S</string>
+    <string name="compass_e">E</string>
+    <string name="compass_w">W</string>
+</resources>
